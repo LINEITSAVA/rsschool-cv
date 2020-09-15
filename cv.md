@@ -16,7 +16,7 @@ Minsk State Linguistic University, Interpreting and Translation Faculty, linguis
 
 
 ## Work experience
-__T.E.L.S.-BY LLC, 2013–2020__
+__T.E.L.S.-BY LLC, 2013–2020__  
 freight forwarding and logistic services specialist
 - organization cargo delivery via road from Italy to Russia/Belarus (including dangerous cargoes and those requiring particular conditions)
 - assistance with cargo insurance and customs clearance
