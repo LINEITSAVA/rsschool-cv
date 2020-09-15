@@ -30,3 +30,19 @@ foreign economic activities specialist
 - search for new suppliers
 - preparation of customs documents: invoices, packing lists, technical specifications etc.
 - translation of technical literature, assembly instructions, scientific articles
+
+
+## Personal qualities
+- Interpersonal skills
+- Teamwork skills
+- Attention to detail
+- Willingness to learn
+- Ability to handle pressure and meet deadlines
+- Flexibility
+
+## Special skills
+
+- Fluent English and Italian
+- Driving License (Category B)
+- Computer literacy (Microsoft Office, Outlook Express, 1C: Enterprise)
+- Hobbies: sport, psychology 
