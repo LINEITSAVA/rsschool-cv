@@ -2,6 +2,11 @@
 ***
 
 
+>But do you know how old I will be by the time I learn to really play the piano / act / paint / write a decent play?
+>Yes . . . the same age you will be if you don't.
+
+__― Julia Cameron, The Artist's Way: A Spiritual Path to Higher Creativity__
+
 ## Personal information
 Address: 35 A/1 40 let Pobedy Street, apt. 134, Borovlyany, 223053, Belarus  
 Telephone: +375445567679  
@@ -45,4 +50,4 @@ foreign economic activities specialist
 - Fluent English and Italian
 - Driving License (Category B)
 - Computer literacy (Microsoft Office, Outlook Express, 1C: Enterprise)
-- Hobbies: sport, psychology 
+- Hobbies: sport, psychology
