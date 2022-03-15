@@ -1,6 +1,6 @@
 # Yuliya Lineitsava
 ***
-
+![My photo](myphoto.JPG)
 
 ## Personal information
 Address: 35 A/1 40 let Pobedy Street, apt. 134, Borovlyany, 223053, Belarus  
@@ -8,7 +8,7 @@ Telephone: +375445567679
 Email: serata@mail.ru  
 Date of birth: 21th August 1986  
 Nationality: Russian  
-Marital status: married with a 9-year-old daughter  
+Marital status: married with an 11-year-old daughter  
 
 
 ## Education
@@ -16,7 +16,7 @@ Minsk State Linguistic University, Interpreting and Translation Faculty, linguis
 
 
 ## Work experience
-__T.E.L.S.-BY LLC, 2013–2020__  
+__T.E.L.S.-BY LLC, 2013–2022__  
 freight forwarding and logistic services specialist
 - organization cargo delivery via road from Italy to Russia/Belarus (including dangerous cargoes and those requiring particular conditions)
 - assistance with cargo insurance and customs clearance
