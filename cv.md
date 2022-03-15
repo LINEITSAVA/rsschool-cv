@@ -51,3 +51,8 @@ foreign economic activities specialist
 - Driving License (Category B)
 - Computer literacy (Microsoft Office, Outlook Express, 1C: Enterprise)
 - Hobbies: sport, psychology
+
+##  Web development basic knowledge
+- HTML/CSS (Sass)/JS 
+- Photoshop, Figma, Pixel Perfect
+- Git, GitHub, Markdown
