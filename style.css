@@ -1,0 +1,107 @@
+main {
+  margin: 0px auto;
+  width: 900px;
+  font-family: 'Noto Sans TC', sans-serif;
+  height: 1300px;
+  border: 5px solid #4E5754;
+}
+
+aside {
+  background-color: #4E5754;
+  width: 33%;
+  height: 100%;
+  float: left;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+img {
+  margin-top: 30px;
+}
+
+.contacts {
+  float: left;
+}
+
+.white_line {
+  font-size: 1.2em;
+  border-bottom: 3px solid #FFFFFF;
+  float: right;
+  text-align: left;
+  margin-top: 30px;
+  width: 85%;
+}
+
+.contacts_data {
+  font-size: 0.8em;
+  margin-top: 20px;
+  width: 80%;
+  float: right;
+  text-align: left;
+  margin-top: 10px;
+  width: 85%;
+}
+.quote {
+  float: left;
+  text-align: right;
+  margin: 20px 100px 20px 30px;
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 1em;
+}
+
+.quote span {
+    text-decoration: line-through;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 1em;
+}
+.personal_qualities {
+  margin-top: 20px;
+}
+
+.qualities_list {
+  float: right;
+  width: 85%;
+  margin-top: 20px;
+}
+
+ul {
+  list-style: none;
+  font-size: 0.8em;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  text-align: left;
+  padding: 0;
+  margin-bottom: 5px;
+  line-height: 25px;
+}
+
+.cv_body {
+  width: 67%;
+  float: left;
+}
+
+header {
+  margin: 20px 0px 20px 30px;
+}
+
+section {
+  float: left;
+  margin: 20px 0px 20px 30px;
+}
+
+
+
+.black_line {
+  font-size: 1.2em;
+  border-bottom: 3px solid black;
+  float: left;
+  text-align: left;
+  width: 80%;
+}
+
+.body_section {
+  float: left;
+}
