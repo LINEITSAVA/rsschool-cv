@@ -1,1 +1,1 @@
-https://LINEITSAVA.github.io/rsschool-cv/
+https://lineitsava.github.io/rsschool-cv/
